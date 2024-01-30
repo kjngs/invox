@@ -7,5 +7,7 @@
 2. python manage.py makemigrations testApp
 3. python manage.py runserver
 
+### /admin page用　super user 生成 
+python manage.py createsuperuser
 
 ソースコードは　testApp/views.py ファイルにあります。
